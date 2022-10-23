@@ -13,3 +13,5 @@ Format is displayed as one of the 4 examples below:
 Case stands for Lowecase or Uppercase, It is pretty much a true false meaning if you choose 1 (meaning true) it will be lowercase and vise versa
 
 prefix is what the Mac Address will start with. For example: 00, FF, 0A etc IT MUST START WITH ANYTHING FROM 0 - 9 OR A - F (lowercase or uppercase.)
+
+# You need to install python and add it to path. I will not be supporting you with any issues.
